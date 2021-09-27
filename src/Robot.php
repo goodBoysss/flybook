@@ -1,6 +1,6 @@
 <?php
 
-namespace flybook\robot;
+namespace Flybook\Robot;
 class Robot
 {
     public static function msg() {
