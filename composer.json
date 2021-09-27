@@ -1,0 +1,17 @@
+{
+    "name": "flybook/robot",
+    "description": "飞书机器人消息提醒",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Flybook\\Robot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhanglx",
+            "email": "zhanglx92@163.com"
+        }
+    ],
+    "require": {}
+}
